@@ -80,8 +80,6 @@
 ![Screenshot 2024-01-02 174917](https://github.com/everspyrat/Everspy-2024/assets/153394180/47a28b5a-0767-4df0-930e-85ffda106bf8)
 
 ![Screenshot 2024-01-02 174925](https://github.com/everspyrat/Everspy-2024/assets/153394180/6d687492-8de9-45fe-8315-c41b01e9d456)
-
-![Screenshot 2023-12-06 202917](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/eae59cf4-901f-4f68-9b0f-53d9c3f9c399)
 #
 ### **DEVELOPER**
 

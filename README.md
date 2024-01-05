@@ -1,6 +1,6 @@
 
 
-# EVERSPY OBSIDIAN - CONTROLE PARENTAL
+# EVERSPY OBSIDIAN - PARENTAL CONTROL
 ### Parental Monitoring App
 ##### Protect your children from cyberbullying, online predators, inappropriate and violent content, and other online dangers. Monitor all your child's activities on the phone wherever you are!
 
